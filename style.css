@@ -83,7 +83,7 @@ section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(../img/img2.jpg) center/cover no-repeat;
+    background: url(https://scontent.faae1-1.fna.fbcdn.net/v/t39.30808-6/452076882_2268070926859989_4130176025525945775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeERlSNh7t26dY_u9EHcr4k3ITWnXwQUY-ohNadfBBRj6qSOR9Ye8A5ryi910WmoGe6xifaqGhH7hJ83n4iFJd0k&_nc_ohc=IgcPdoZIDB4Q7kNvgGLaulQ&_nc_zt=23&_nc_ht=scontent.faae1-1.fna&oh=00_AYDUNOYqe_-UOQwQU5Hi6qF8yotCJoBLrOOWP-kAj2LBCg&oe=66A1A45D) center/cover no-repeat;
     display: grid;
     align-items: center;
 }
